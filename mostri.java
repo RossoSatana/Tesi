@@ -53,5 +53,5 @@ public abstract class mostri {
 	public weapon showW(){
 		return equipment.getWep();	
 	}
-
+//ciao leti
 }
